@@ -29,19 +29,23 @@ In this project, I used a Jupyter notebook to perform the following tasks:
    - Combined data analysis techniques to gain comprehensive insights into the dataset.
 
 5. **Conclusion and Insights**:
-   - Summarized the key findings and insights from the project.
-   - Demonstrated the power of data analysis and visualization in informing policy decisions and community initiatives.
+   - The top 5 crimes in Chichago are,
+   1. Assault
+   2. Battery
+   3. Narcotics
+   4. Criminal damage
+   5. Theft
 
 ## Project Files
 
-- `portfolio_project.ipynb`: The Jupyter notebook containing the code and analysis for this project.
+- `Data_Analysis_IBM.ipynb`: The Jupyter notebook containing the code and analysis for this project.
 - `ChicagoCensusData.csv`: The dataset for Chicago's socioeconomic indicators.
 - `ChicagoCrimeData.csv`: The dataset for reported crime incidents in Chicago.
 - `socioeconomic.db`: The SQLite database containing the data after data loading.
 
 ## How to Use
 
-You can explore the project by opening the Jupyter notebook, `portfolio_project.ipynb`, which contains detailed explanations, SQL queries, and visualizations. The code is well-documented to help you follow the analysis process.
+You can explore the project by opening the Jupyter notebook, `Data_Analysis_IBM.ipynb`, which contains detailed explanations, SQL queries, and visualizations. The code is well-documented to help you follow the analysis process.
 
 ## Prerequisites
 
